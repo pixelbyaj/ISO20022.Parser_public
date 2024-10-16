@@ -2,7 +2,7 @@
 [![NuGet Version](https://img.shields.io/nuget/v/ISO20022.Parser)](https://www.nuget.org/packages/ISO20022.Parser/)
 ![NuGet Downloads](https://img.shields.io/nuget/dt/ISO20022.Parser)
 
-ISO20022.Parser is the .Net 8 library which help to parse ISO 200022 messages in the fastes way possible with the predefined rule sets.
+ISO20022.Parser is the .Net 8 library which help to parse ISO 200022 messages in the fastest way possible with the predefined rule sets.
 
 
 **NOTE: MXParser has been deprecated. Please switch to ISO20022.Parser**
