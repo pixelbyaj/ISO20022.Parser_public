@@ -22,7 +22,7 @@
         },
         "repositoryUrl": {
           "url": "https://github.com/pixelbyaj/ISO20022.Parser_public.git",
-          "wellKnown": "https://iso20022.in/funding.json"
+          "wellKnown": "https://github.com/pixelbyaj/ISO20022.Parser_public/blob/main/.well-known/funding.json"
         },
         "licenses": ["spdx:Apache License 2.0"],
         "tags": ["iso20022", "swift", "fintech", "mx", "parsing"]
